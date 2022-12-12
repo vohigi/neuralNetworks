@@ -1,3 +1,6 @@
+*КОД: lab2.ipynb*
+*Звіт з описом що зроблено: Panasiuk_O_IS_11_lab2.docx*
+
 
 Методи аналізу та вибору значущих ознак 
 (Features’ Selection Procedures)
